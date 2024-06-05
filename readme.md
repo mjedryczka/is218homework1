@@ -1,3 +1,7 @@
 # Homework One
 ## Instructions
-Install WSL2 with Ubuntu linux installed, create a Github Account, create a folder for projects, create a homework project 1, do a branch, and a merge locally as well as on Github. 
+1. Installed, create a Github Account
+2. Create a GitHub Account
+3. Create a folder for project
+4. Crreate homework project 1
+5. Create a branch , and a merge locally as well as on Github. 
